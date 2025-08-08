@@ -1,20 +1,36 @@
-# Getting Started
-Install the dependencies and run the project in watch mode
-```
+# About This Project
+My Unsplash Image Gallery 🖼️
+A simple, customizable web application that fetches and displays a grid of images from Unsplash based on a search query.
+
+🛠️ Technologies Used
+React: For building the user interface.
+
+HTML5 & CSS3: For the structure and styling of the web page.
+
+Unsplash API: For fetching high-quality images.
+
+✨ Acknowledgements
+This project was inspired by lessons from Scrimba. 
+Photos are provided by the talented creators on Unsplash.
+
+
+🚀 Getting Started
+To get this project up and running on your local machine, follow these simple steps.
+
+Install Dependencies: Open your terminal and run the following command:
+
+Bash
+
 npm install
-npm run build # or watch to rebuild on change
-open index.html
-```
-Note that using Webpack is obselete and this archive has been provided
-for compatibility reasons. Prefer using Vite, check it at https://vitejs.dev
-## About Scrimba
+Build the Project: This will bundle the necessary files for the browser.
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Fullstack Developer Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+Bash
 
-- [Our courses](https://scrimba.com/courses)
-- [The Frontend Career Path](https://scrimba.com/fullstack-path-c0fullstack)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+npm run build
+Tip: Run npm run watch to automatically rebuild the project whenever you make changes to the code.
+
+Open in Browser: Open the index.html file in your web browser to see the application live.
+
+
 
 Happy Coding!
